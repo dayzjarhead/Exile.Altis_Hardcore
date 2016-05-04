@@ -1,0 +1,6 @@
+*.log
+*.rpt
+bec/
+BattlEye/
+Users/
+extdb-conf.ini
